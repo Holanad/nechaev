@@ -1,0 +1,15 @@
+{
+  "name": "marquee",
+  "homepage": "https://github.com/gammasoft/marquee",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "554ae5e25d2ca55532c2fbcb63bf5b9d7535f1d2"
+  },
+  "_source": "https://github.com/gammasoft/marquee.git",
+  "_target": "^0.0.1",
+  "_originalSource": "marquee",
+  "_direct": true
+}
